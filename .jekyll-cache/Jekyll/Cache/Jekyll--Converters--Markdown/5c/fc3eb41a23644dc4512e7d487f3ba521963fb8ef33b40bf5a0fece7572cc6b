@@ -1,50 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Course name</title>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&subset=latin-ext" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Inconsolata&subset=latin-ext" rel="stylesheet">
-	<link rel="stylesheet" href="/2023-Fall-QuantumML/style/styles.css">
-</head>
-<body>
-	<div class="column">
-		<p class="subtitle">17-620 — Quantum Machine Learning — Fall Semester 2023</p>
-<nav>
-	<ul>
-		
-		
-		
-		<li><a href="/2023-Fall-QuantumML/404.html"></a></li>
-		
-		
-		
-		<li><a href="/2023-Fall-QuantumML/feed.xml"></a></li>
-		
-		
-		
-		<li class="active"><a href="/2023-Fall-QuantumML/" class="active">Basic info</a></li>
-		
-		
-		
-		<li><a href="/2023-Fall-QuantumML/schedule.html">Schedule</a></li>
-		
-		
-		
-		<li><a href="/2023-Fall-QuantumML/requirements.html">Course requirements</a></li>
-		
-		
-	</ul>
-</nav>
-
-<h1>Quantum Machine Learning</h1>
+I"r<h1>Quantum Machine Learning</h1>
 
 <p><img src="/2023-Fall-QuantumML/style/books_header.jpg" width="100%" /></p>
 
-<p>Mondays and Wednesdays (5:00pm to 6:20pm @ 3SC 265)</p>
-<h3 id="instructors">Instructors:</h3>
-<p><a href="https://thequantumturtle.github.io/">Daniel Justice</a> &amp; <a href="http://mlsp.cs.cmu.edu/people/rsingh/index.html">Rita Singh</a></p>
+<p>Mondays and Wednesdays (5:00pm to 6:20pm @ 3SC 265) <br />
+###Instructors:
+<a href="https://thequantumturtle.github.io/">Daniel Justice</a> &amp; <a href="http://mlsp.cs.cmu.edu/people/rsingh/index.html">Rita Singh</a></p>
 
 <h2 id="location">Location</h2>
 <p>Class room is at 3SC 265. The class is in person but will also be streamed via <a href="https://cmu.zoom.us/j/96065480859?pwd=Y0pteXZ2and2WHNkRHljSFBieUpFQT09">Zoom</a>. I encourage you to come to class and use Zoom as a fallback option.</p>
@@ -83,12 +43,8 @@
 <a href="syllabus/10-Thanksgiving.html"><strong>Day 10</strong></a> (11/22): <strong>Thanksgiving</strong><br />
 <a href="syllabus/11-QGANs.html"><strong>Day 11</strong></a> (11/27): Q-GANs<br />
 <a href="syllabus/12-K-Means.html"><strong>Day 12</strong></a> (11/29): K-Means<br />
-<a href="syllabus/13-Q-Means.html"><strong>Day 13</strong></a> (12/4): Q-Means<br />
+<a href="syllabus/13-Q-Means.html"><strong>Day 13</strong></a> (12/4): Q-Means  *
 <a href="syllabus/14-Decoder.html"><strong>Day 14</strong></a> (12/6): Quantum Decoders</p>
 
 <p><em>Schedule with assignments, readings, etc. can be found <a href="schedule.html">here</a></em></p>
-
-
-	</div>
-</body>
-</html>
+:ET

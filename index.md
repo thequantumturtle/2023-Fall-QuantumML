@@ -8,14 +8,13 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/books_header.jpg" width="100%">
 
-Mondays and Wednesdays (5:00pm to 6:20pm @ 3SC 265)   
-Intructors
-[Daniel Justice](https://thequantumturtle.github.io/)
-
-[Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html)
+Mondays and Wednesdays (5:00pm to 6:20pm @ 3SC 265)
+### Instructors:
+[Daniel Justice](https://thequantumturtle.github.io/) & [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html)
 
 ## Location
-Class room is at 3SC 265. The class is in person but will also be streamed via [Zoom](https://cmu.zoom.us/j/98486345862?pwd=ZUp3V3FyRlB4TklYL2FxKzJ2eXFnZz09). I encourage you to come to class and use Zoom as a fallback option.
+Class room is at 3SC 265. The class is in person but will also be streamed via [Zoom](https://cmu.zoom.us/j/96065480859?pwd=Y0pteXZ2and2WHNkRHljSFBieUpFQT09). I encourage you to come to class and use Zoom as a fallback option.
+
 
 ## Course Goals
 Students having already gain familiarity with current universal gate quantum computing tools and technology will expand their knowledge to using Quantum Computing for Machine Learning algorithms.
@@ -54,7 +53,7 @@ This course is a Mini-Course (Half Semester) taking place in the second half of 
 [**Day 10**](syllabus/10-Thanksgiving.html) (11/22): **Thanksgiving**  
 [**Day 11**](syllabus/11-QGANs.html) (11/27): Q-GANs  
 [**Day 12**](syllabus/12-K-Means.html) (11/29): K-Means  
-[**Day 13**](syllabus/13-Q-Means.html) (12/4): Q-Means  *
+[**Day 13**](syllabus/13-Q-Means.html) (12/4): Q-Means  
 [**Day 14**](syllabus/14-Decoder.html) (12/6): Quantum Decoders  
 
 
