@@ -9,13 +9,16 @@ menuPosition: 1
 <img src="{{ site.baseurl }}/style/books_header.jpg" width="100%">
 
 Mondays and Wednesdays (5:00pm to 6:20pm @ 3SC 265)   
+Intructors
 [Daniel Justice](https://thequantumturtle.github.io/)
+
+[Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html)
 
 ## Location
 Class room is at 3SC 265. The class is in person but will also be streamed via [Zoom](https://cmu.zoom.us/j/98486345862?pwd=ZUp3V3FyRlB4TklYL2FxKzJ2eXFnZz09). I encourage you to come to class and use Zoom as a fallback option.
 
 ## Course Goals
-Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware. 
+Students having already gain familiarity with current universal gate quantum computing tools and technology will expand their knowledge to using Quantum Computing for Machine Learning algorithms.
 
 ## Grading
 90% Homeworks/Quizzes, 10% Participation.
@@ -29,29 +32,30 @@ Python, Jupyter Notebooks, Linear Algebra
 Students will **not** need an understanding of quantum mechanics.
 
 
-Note: The syllabus is subject to occasional change. This is especially the case in the latter half of the semester once your professors have become comfortable with the group's overall skill level. Adequate notice will be given.
+**Note**: The syllabus is subject to occasional change. This is especially the case in the latter half of the semester once your professors have become comfortable with the group's overall skill level. Adequate notice will be given.
 
 
 ## Basic course structure
 
-Due to this being a mini, we will do our best to skirt into a new topic each and every day. 
+This course is a Mini-Course (Half Semester) taking place in the second half of the Fall semester. Due to this being a mini, we will do our best to skirt into a new topic each and every day. 
 
 
 ## Schedule
-[**Day 1**](syllabus/1-Introduction.html) (08/28): Introduction  
-[**Day 2**](syllabus/2-One-Qbit.html) (08/30): Qubits  
-**Holiday** (09/04): Labor Day  
-[**Day 3**](syllabus/3-Multi-Qbits.html) (09/06): Multiple Qubits  
-[**Day 4**](syllabus/4-Teleportation.html) (09/11): Quantum Teleportation  
-[**Day 5**](syllabus/5-BB84.html) (09/13): BB84  
-[**Day 6**](syllabus/6-Arithmetic.html) (09/18): Quantum Arithmetic and Logic  
-[**Day 7**](syllabus/7-Amp-Amp.html) (09/20): Amplitude Amplification  
-[**Day 8**](syllabus/8-QFT.html) (09/25): QFT: Quantum Fourier Transform  
-[**Day 9**](syllabus/9-Quantum-Phase-Estimation.html) (09/27): Quantum Phase Estimation  
-[**Day 10**](syllabus/10-Real-Data.html) (10/02): Real Data  
-[**Day 11**](syllabus/11-Quantum-Search.html) (10/04): Quantum Search  
-[**Day 12**](syllabus/12-Guest.html) (10/09): Guest Lecture  
-[**Day 13**](syllabus/13-Shors.html) (10/11): Shor's Factoring Algorithm  
+
+[**Day 1**](syllabus/1-Introduction.html) (10/23): Introduction  
+[**Day 2**](syllabus/2-ML-Landscape.html) (10/25): The Landscape of ML & SVM  
+[**Day 3**](syllabus/3-Building-NNs.html) (10/30): Building a Neural Network  
+[**Day 4**](syllabus/4-Classification.html) (11/1): Binary and Multiclass Classification  
+[**Day 5**](syllabus/5-Pennylane.html) (11/6): Intro to Pennylane  
+[**Day 6**](syllabus/6-QSVM.html) (11/8): QSVM  
+[**Day 7**](syllabus/7-QNN.html) (11/13): QNN  
+[**Day 8**](syllabus/8-Guest.html) (11/15): Guest Lecture  
+[**Day 9**](syllabus/9-GANs.html) (11/20): GANs  
+[**Day 10**](syllabus/10-Thanksgiving.html) (11/22): **Thanksgiving**  
+[**Day 11**](syllabus/11-QGANs.html) (11/27): Q-GANs  
+[**Day 12**](syllabus/12-K-Means.html) (11/29): K-Means  
+[**Day 13**](syllabus/13-Q-Means.html) (12/4): Q-Means  *
+[**Day 14**](syllabus/14-Decoder.html) (12/6): Quantum Decoders  
 
 
 *Schedule with assignments, readings, etc. can be found [here](schedule.html)*

@@ -25,12 +25,11 @@ Everything a student needs to know to succeed.
 ### Books
 
 #### Main Book: 
-- [Octopus Book](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683)   
+- [Practical QML](https://www.packtpub.com/product/a-practical-guide-to-quantum-machine-learning-and-quantum-optimization/9781804613832)   
     We will be working mostly out of this book.
 
 #### Extra Reading:
-- [Blue Book](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965)    
-    This book gives a great explanation on how to conceptualize Quantum Computers. First few chapters are great if you don't feel confident with the math.
+- [ML w/ QC](https://link.springer.com/book/10.1007/978-3-030-83098-4)    
 - [Gentle Book](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)    
     A very computer science take on quantum computers. A good read if you are hoping to do research.
 

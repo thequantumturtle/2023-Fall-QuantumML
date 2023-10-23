@@ -9,13 +9,13 @@ You can download all required reading in the [Study materials]({{ site.docsUrl }
 {% endif %}
 
 <ol>
-{% assign syllabus = site.syllabus | sort: "week" %}
-{% for week in syllabus %}
+{% assign syllabus = site.syllabus | sort: "lecture" %}
+{% for lecture in syllabus %}
   <li>
-  	<a href="{{ site.baseurl }}{{ week.url }}">{{ week.title }}</a> 
-  	{% for tag in week.tags %}
+  	<a href="{{ site.baseurl }}{{ lecture.url }}">{{ lecture.title }}</a> 
+  	{% for tag in lecture.tags %}
   		<b>#{{ tag }}</b>
   	{% endfor %}
-  	({{ week.day }})</li>
+  	({{ lecture.day }})</li>
 {% endfor %}
 </ol>
